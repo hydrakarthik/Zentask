@@ -66,13 +66,13 @@ Stay updated with reminders and alerts.
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard1.png)
 
 ---
 
 ## Focus Mode
 
-![Focus Mode](screenshots/focus.png)
+![Focus Mode](screenshots/dashboard2.png)
 
 ---
 
